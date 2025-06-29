@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">I <3 Frontend, Backend, 3D, WebGL, Selfhosting/Privacy, Procedural Generation and am interested in much more...</h3>
 
- - I’m currently working on [Ruumio](https://ruumio.com) ~~[Plantarium](https://github.com/jim-fx/plantarium)~~
+ - I’m currently working on/at [dynabase](dynabase.de) ~~[Ruumio](https://ruumio.com)~~ ~~[Plantarium](https://github.com/jim-fx/plantarium)~~
  - My [dotfiles](https://github.com/jim-fx/.dotfiles)
  - I sometimes write articles on [max-richter.dev/posts](https://max-richter.dev/posts)
 
